@@ -10,3 +10,5 @@ I was able to learn about the main columns of information related to players win
 These crucial columns gave me insight into how players were drafted based on how they measured in these key categories, but I wanted to focus on Wingspan.
 In the NBA space is crucial vertically & horizontally and the ability to take up that space with your wingspan is important. 
 In the data I was able to see that the 1st round of picks were clustered inside the wingspans of 80.0 & 87.5 inches with 1 outlier.
+As I built out some of my models I was able to Decision Tree Model that had an accuracy of 72.7%. 
+The data being built around NBA Players data it was imperfect especially with the difficuly & nuance of drafting NBA Players.
